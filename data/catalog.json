@@ -1,0 +1,2747 @@
+{
+  "generatedAt": "2026-07-29T05:26:14.149Z",
+  "shows": [
+    {
+      "id": "1998",
+      "year": 1998,
+      "title": "Next 2000kms",
+      "folder": "1998 - Next 2000kms",
+      "songs": [
+        {
+          "id": "1998-01",
+          "title": "Greasetown",
+          "vocalsFile": "1998 - Next 2000kms/01 Greasetown.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-02",
+          "title": "Fried Green Dim Sims at the Greasetown Cafe",
+          "vocalsFile": "1998 - Next 2000kms/02 Fried Green Dim Sims at the Greasetown Cafe.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-03",
+          "title": "Mad Dogs And Emus",
+          "vocalsFile": "1998 - Next 2000kms/03 Mad Dogs And Emus.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-04",
+          "title": "Dreamtime",
+          "vocalsFile": "1998 - Next 2000kms/04 Dreamtime.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-05",
+          "title": "Steamed Strudel in Stockholm",
+          "vocalsFile": "1998 - Next 2000kms/05 Steamed Strudel in Stockholm.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-06",
+          "title": "The Town That Was Buried By Time",
+          "vocalsFile": "1998 - Next 2000kms/06 The Town That Was Buried By Time.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-07",
+          "title": "Somethin' Smells A Bit Fishy",
+          "vocalsFile": "1998 - Next 2000kms/07 Somethin_ Smells A Bit Fishy.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-08",
+          "title": "Open Arms",
+          "vocalsFile": "1998 - Next 2000kms/08 Open Arms.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-09",
+          "title": "We're Just Wild About Teddies",
+          "vocalsFile": "1998 - Next 2000kms/09 We_re Just Wild About Teddies.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-10",
+          "title": "Black Road",
+          "vocalsFile": "1998 - Next 2000kms/10 Black Road.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-11",
+          "title": "Marty And The Magictones Play Cuban Bots",
+          "vocalsFile": "1998 - Next 2000kms/11 Marty And The Magictones Play Cuban Bots.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-12",
+          "title": "River",
+          "vocalsFile": "1998 - Next 2000kms/12 River.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-13",
+          "title": "I Wish I Was A Freak",
+          "vocalsFile": "1998 - Next 2000kms/13 I Wish I Was A Freak.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-14",
+          "title": "Megamix",
+          "vocalsFile": "1998 - Next 2000kms/14 Megamix.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1998-15",
+          "title": "Scarves Of Blue",
+          "vocalsFile": "1998 - Next 2000kms/15 Scarves Of Blue.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "1999",
+      "year": 1999,
+      "title": "How was School Dear",
+      "folder": "1999 - How was School Dear",
+      "songs": [
+        {
+          "id": "1999-01",
+          "title": "How was school today",
+          "vocalsFile": "1999 - How was School Dear/03 How was school today.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-02",
+          "title": "Welcome",
+          "vocalsFile": "1999 - How was School Dear/03 Welcome.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-03",
+          "title": "One day",
+          "vocalsFile": "1999 - How was School Dear/04 One day.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-04",
+          "title": "The end is nigh",
+          "vocalsFile": "1999 - How was School Dear/05 The end is nigh.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-05",
+          "title": "Bell Quartet 1",
+          "vocalsFile": "1999 - How was School Dear/06 Bell Quartet 1.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-06",
+          "title": "Music Class",
+          "vocalsFile": "1999 - How was School Dear/07 Music Class.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-07",
+          "title": "Butterfly",
+          "vocalsFile": "1999 - How was School Dear/08 Butterfly.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-08",
+          "title": "The end is nigh 2",
+          "vocalsFile": "1999 - How was School Dear/09 The end is nigh 2.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-09",
+          "title": "Bell Quartet 2",
+          "vocalsFile": "1999 - How was School Dear/10 Bell Quartet 2.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-10",
+          "title": "Follicale Funk",
+          "vocalsFile": "1999 - How was School Dear/11 Follicale Funk.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-11",
+          "title": "Knaves on Parade",
+          "vocalsFile": "1999 - How was School Dear/12 Knaves on Parade.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-12",
+          "title": "Food Fight",
+          "vocalsFile": "1999 - How was School Dear/13 Food Fight.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-13",
+          "title": "The end is nigh 3",
+          "vocalsFile": "1999 - How was School Dear/15 The end is nigh 3.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-14",
+          "title": "A lot like a bossanova",
+          "vocalsFile": "1999 - How was School Dear/16 A lot like a bossanova.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-15",
+          "title": "Bell Quartet 3",
+          "vocalsFile": "1999 - How was School Dear/17 Bell Quartet 3.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-16",
+          "title": "World keeps spinning",
+          "vocalsFile": "1999 - How was School Dear/18 World keeps spinning.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-17",
+          "title": "Butterfly 2",
+          "vocalsFile": "1999 - How was School Dear/19 Butterfly 2.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-18",
+          "title": "Bell Quartet 4",
+          "vocalsFile": "1999 - How was School Dear/20 Bell Quartet 4.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-19",
+          "title": "Janitor",
+          "vocalsFile": "1999 - How was School Dear/21 Janitor.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "1999-20",
+          "title": "Homework Boy",
+          "vocalsFile": "1999 - How was School Dear/22 Homework Boy.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2000",
+      "year": 2000,
+      "title": "If you're happy and you know it",
+      "folder": "2000 - If you_re happy and you know it",
+      "songs": [
+        {
+          "id": "2000-01",
+          "title": "Out There",
+          "vocalsFile": "2000 - If you_re happy and you know it/01 Out There.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-02",
+          "title": "The Bored Room",
+          "vocalsFile": "2000 - If you_re happy and you know it/02 The Bored Room.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-03",
+          "title": "Zoo",
+          "vocalsFile": "2000 - If you_re happy and you know it/03 Zoo.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-04",
+          "title": "Intro",
+          "vocalsFile": "2000 - If you_re happy and you know it/04 Intro.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-05",
+          "title": "Still Believe",
+          "vocalsFile": "2000 - If you_re happy and you know it/05 Still Believe.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-06",
+          "title": "CSA 1 - Be Out Of It",
+          "vocalsFile": "2000 - If you_re happy and you know it/06 CSA 1 - Be Out Of It.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-07",
+          "title": "Stay Boring",
+          "vocalsFile": "2000 - If you_re happy and you know it/07 Stay Boring.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-08",
+          "title": "Pure Imagination",
+          "vocalsFile": "2000 - If you_re happy and you know it/08 Pure Imagination.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-09",
+          "title": "Bingo Swing",
+          "vocalsFile": "2000 - If you_re happy and you know it/09 Bingo Swing.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-10",
+          "title": "Egypt",
+          "vocalsFile": "2000 - If you_re happy and you know it/10 Egypt.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-11",
+          "title": "Nip It In The Bud",
+          "vocalsFile": "2000 - If you_re happy and you know it/11 Nip It In The Bud.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-12",
+          "title": "Running Gag",
+          "vocalsFile": "2000 - If you_re happy and you know it/12 Running Gag.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-13",
+          "title": "Green Eggs And Ham",
+          "vocalsFile": "2000 - If you_re happy and you know it/13 Green Eggs And Ham.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-14",
+          "title": "Cheese In A Can",
+          "vocalsFile": "2000 - If you_re happy and you know it/14 Cheese In A Can.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-15",
+          "title": "Stars In Your Eyes",
+          "vocalsFile": "2000 - If you_re happy and you know it/15 Stars In Your Eyes.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-16",
+          "title": "Natural High",
+          "vocalsFile": "2000 - If you_re happy and you know it/16 Natural High.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-17",
+          "title": "Station ID 4",
+          "vocalsFile": "2000 - If you_re happy and you know it/17 Station ID 4.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-18",
+          "title": "Say, Do you Know'",
+          "vocalsFile": "2000 - If you_re happy and you know it/18 Say, Do you Know_.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-19",
+          "title": "Riot",
+          "vocalsFile": "2000 - If you_re happy and you know it/19 Riot.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-20",
+          "title": "Smile",
+          "vocalsFile": "2000 - If you_re happy and you know it/20 Smile.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-21",
+          "title": "Scarves Of Blue",
+          "vocalsFile": "2000 - If you_re happy and you know it/21 Scarves Of Blue.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-22",
+          "title": "Carbonated Speed",
+          "vocalsFile": "2000 - If you_re happy and you know it/22 Carbonated Speed.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2000-23",
+          "title": "Oh Did I Mention'",
+          "vocalsFile": "2000 - If you_re happy and you know it/23 Oh Did I Mention_.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2001",
+      "year": 2001,
+      "title": "15 Minutes",
+      "folder": "2001 - 15 Minutes",
+      "songs": [
+        {
+          "id": "2001-01",
+          "title": "Welcome",
+          "vocalsFile": "2001 - 15 Minutes/01 Welcome.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-02",
+          "title": "Not Much Like a Ricky Martin",
+          "vocalsFile": "2001 - 15 Minutes/02 Not Much Like a Ricky Martin.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-03",
+          "title": "Camberwell Coffee Culture",
+          "vocalsFile": "2001 - 15 Minutes/03 Camberwell Coffee Culture.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-04",
+          "title": "Dolls Have No Guts",
+          "vocalsFile": "2001 - 15 Minutes/04 Dolls Have No Guts.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-05",
+          "title": "Band Audition 1' Blink 182",
+          "vocalsFile": "2001 - 15 Minutes/05 Band Audition 1_ Blink 182.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-06",
+          "title": "I Was Made To Cut Your Hair",
+          "vocalsFile": "2001 - 15 Minutes/06 I Was Made To Cut Your Hair.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-07",
+          "title": "Band Audition 2' Savage Garden",
+          "vocalsFile": "2001 - 15 Minutes/07 Band Audition 2_ Savage Garden.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-08",
+          "title": "Yanks Arrive",
+          "vocalsFile": "2001 - 15 Minutes/08 Yanks Arrive.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-09",
+          "title": "Paranoid",
+          "vocalsFile": "2001 - 15 Minutes/09 Paranoid.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-10",
+          "title": "Band Audition 3' Reggae",
+          "vocalsFile": "2001 - 15 Minutes/10 Band Audition 3_ Reggae.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-11",
+          "title": "Couch Potato Clone",
+          "vocalsFile": "2001 - 15 Minutes/11 Couch Potato Clone.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-12",
+          "title": "Try Centrelink Instead",
+          "vocalsFile": "2001 - 15 Minutes/12 Try Centrelink Instead.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-13",
+          "title": "15 Minutes of Fame",
+          "vocalsFile": "2001 - 15 Minutes/13 15 Minutes of Fame.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-14",
+          "title": "Interlude",
+          "vocalsFile": "2001 - 15 Minutes/14 Interlude.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-15",
+          "title": "Mrs Johnson's Song",
+          "vocalsFile": "2001 - 15 Minutes/15 Mrs Johnson_s Song.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-16",
+          "title": "N-E-V-I-L-L-E",
+          "vocalsFile": "2001 - 15 Minutes/16 N-E-V-I-L-L-E.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-17",
+          "title": "Girl Bands",
+          "vocalsFile": "2001 - 15 Minutes/17 Girl Bands.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-18",
+          "title": "Scarves Blue",
+          "vocalsFile": "2001 - 15 Minutes/18 Scarves Blue.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2001-19",
+          "title": "Outtakes",
+          "vocalsFile": "2001 - 15 Minutes/19 Outtakes.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2002",
+      "year": 2002,
+      "title": "Absolutely Nothing",
+      "folder": "2002 - Absolutely Nothing",
+      "songs": [
+        {
+          "id": "2002-01",
+          "title": "You're the problem",
+          "vocalsFile": "2002 - Absolutely Nothing/01 You_re the problem.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2002-02",
+          "title": "Anticipation",
+          "vocalsFile": "2002 - Absolutely Nothing/02 Anticipation.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2002-03",
+          "title": "You're so",
+          "vocalsFile": "2002 - Absolutely Nothing/03 You_re so.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2002-04",
+          "title": "Yeehah doof",
+          "vocalsFile": "2002 - Absolutely Nothing/04 Yeehah doof.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2002-05",
+          "title": "Underwear different",
+          "vocalsFile": "2002 - Absolutely Nothing/05 Underwear different.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2002-06",
+          "title": "Absolutely nothing",
+          "vocalsFile": "2002 - Absolutely Nothing/06 Absolutely nothing.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2002-07",
+          "title": "Rubshankle",
+          "vocalsFile": "2002 - Absolutely Nothing/08 Rubshankle.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2002-08",
+          "title": "Neighbours",
+          "vocalsFile": "2002 - Absolutely Nothing/09 Neighbours.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2002-09",
+          "title": "Pointless journey",
+          "vocalsFile": "2002 - Absolutely Nothing/10 Pointless journey.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2002-10",
+          "title": "Reprise",
+          "vocalsFile": "2002 - Absolutely Nothing/11 Reprise.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2002-11",
+          "title": "Megamix",
+          "vocalsFile": "2002 - Absolutely Nothing/12 Megamix.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2002-12",
+          "title": "You're so reprise",
+          "vocalsFile": "2002 - Absolutely Nothing/15 You_re so reprise.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2003",
+      "year": 2003,
+      "title": "Hard Rubbish Week",
+      "folder": "2003 - Hard Rubbish Week",
+      "songs": [
+        {
+          "id": "2003-01",
+          "title": "Party",
+          "vocalsFile": "2003 - Hard Rubbish Week/02 Party.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2003-02",
+          "title": "Not just a game",
+          "vocalsFile": "2003 - Hard Rubbish Week/03 Not just a game.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2003-03",
+          "title": "Germlocks",
+          "vocalsFile": "2003 - Hard Rubbish Week/05 Germlocks.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2003-04",
+          "title": "Hard Rubbish the musical",
+          "vocalsFile": "2003 - Hard Rubbish Week/06 Hard Rubbish the musical.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2003-05",
+          "title": "Pretty on the outside",
+          "vocalsFile": "2003 - Hard Rubbish Week/07 Pretty on the outside.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2003-06",
+          "title": "Things that make you go funk",
+          "vocalsFile": "2003 - Hard Rubbish Week/08 Things that make you go funk.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2003-07",
+          "title": "Soap Opera",
+          "vocalsFile": "2003 - Hard Rubbish Week/09 Soap Opera.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2003-08",
+          "title": "Disposable life",
+          "vocalsFile": "2003 - Hard Rubbish Week/10 Disposable life.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2003-09",
+          "title": "I rock",
+          "vocalsFile": "2003 - Hard Rubbish Week/11 I rock.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2003-10",
+          "title": "Going to the formal",
+          "vocalsFile": "2003 - Hard Rubbish Week/12 Going to the formal.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2004",
+      "year": 2004,
+      "title": "Three Bags Full",
+      "folder": "2004 - Three Bags Full",
+      "songs": [
+        {
+          "id": "2004-01",
+          "title": "Other Side of the Sea",
+          "vocalsFile": "2004 - Three Bags Full/01 Other Side of the Sea.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2004-02",
+          "title": "Land Called Freedom",
+          "vocalsFile": "2004 - Three Bags Full/02 Land Called Freedom.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2004-03",
+          "title": "Blackpeace",
+          "vocalsFile": "2004 - Three Bags Full/03 Blackpeace.mp3",
+          "noVocalsFile": "2004 - Three Bags Full/04 Blackpeace.mp3"
+        },
+        {
+          "id": "2004-04",
+          "title": "Ewe and Me",
+          "vocalsFile": "2004 - Three Bags Full/04 Ewe and Me.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2004-05",
+          "title": "Manoeuvres",
+          "vocalsFile": "2004 - Three Bags Full/05 Manoeuvres.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2004-06",
+          "title": "Tomorrow Night",
+          "vocalsFile": "2004 - Three Bags Full/06 Tomorrow Night.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2004-07",
+          "title": "Dean Manley",
+          "vocalsFile": "2004 - Three Bags Full/07 Dean Manley.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2004-08",
+          "title": "Revolution",
+          "vocalsFile": "2004 - Three Bags Full/07 Revolution.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2004-09",
+          "title": "Freedom",
+          "vocalsFile": "2004 - Three Bags Full/08 Freedom.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2004-10",
+          "title": "Bone Idol",
+          "vocalsFile": "2004 - Three Bags Full/09 Bone Idol.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2004-11",
+          "title": "Pirates",
+          "vocalsFile": "2004 - Three Bags Full/09 Pirates.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2004-12",
+          "title": "Caribbean",
+          "vocalsFile": "2004 - Three Bags Full/10 Caribbean.mp3",
+          "noVocalsFile": "2004 - Three Bags Full/11 Caribbean.mp3"
+        },
+        {
+          "id": "2004-13",
+          "title": "Yo ho",
+          "vocalsFile": "2004 - Three Bags Full/10 Yo ho.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2005",
+      "year": 2005,
+      "title": "Zombies ate my playlunch",
+      "folder": "2005 - Zombies ate my playlunch",
+      "songs": [
+        {
+          "id": "2005-01",
+          "title": "The Bus",
+          "vocalsFile": "2005 - Zombies ate my playlunch/02 The Bus.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-02",
+          "title": "Letter 1' Homesick",
+          "vocalsFile": "2005 - Zombies ate my playlunch/03 Letter 1_ Homesick.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-03",
+          "title": "More fun over There",
+          "vocalsFile": "2005 - Zombies ate my playlunch/04 More fun over There.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-04",
+          "title": "Letter 2' Missing",
+          "vocalsFile": "2005 - Zombies ate my playlunch/05 Letter 2_ Missing.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-05",
+          "title": "Change for the Better",
+          "vocalsFile": "2005 - Zombies ate my playlunch/06 Change for the Better.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-06",
+          "title": "Camp Anthem",
+          "vocalsFile": "2005 - Zombies ate my playlunch/07 Camp Anthem.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-07",
+          "title": "Morning Melody",
+          "vocalsFile": "2005 - Zombies ate my playlunch/08 Morning Melody.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-08",
+          "title": "Letter 3' Missed Out",
+          "vocalsFile": "2005 - Zombies ate my playlunch/09 Letter 3_ Missed Out.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-09",
+          "title": "Things that go bump in the Night",
+          "vocalsFile": "2005 - Zombies ate my playlunch/10 Things that go bump in the Night.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-10",
+          "title": "Under Attack",
+          "vocalsFile": "2005 - Zombies ate my playlunch/11 Under Attack.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-11",
+          "title": "Letter 4' Security",
+          "vocalsFile": "2005 - Zombies ate my playlunch/12 Letter 4_ Security.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-12",
+          "title": "Eureka",
+          "vocalsFile": "2005 - Zombies ate my playlunch/13 Eureka.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-13",
+          "title": "Letter 5' Everythings Okay",
+          "vocalsFile": "2005 - Zombies ate my playlunch/14 Letter 5_ Everythings Okay.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-14",
+          "title": "Confrontation",
+          "vocalsFile": "2005 - Zombies ate my playlunch/15 Confrontation.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2005-15",
+          "title": "The Obvious",
+          "vocalsFile": "2005 - Zombies ate my playlunch/16 The Obvious.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2006",
+      "year": 2006,
+      "title": "Grandpa and Guitars",
+      "folder": "2006 - Grandpa and Guitars",
+      "songs": [
+        {
+          "id": "2006-01",
+          "title": "Introduction",
+          "vocalsFile": "2006 - Grandpa and Guitars/01 Introduction.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2006-02",
+          "title": "Overture",
+          "vocalsFile": "2006 - Grandpa and Guitars/02 Overture.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2006-03",
+          "title": "Family Feud",
+          "vocalsFile": "2006 - Grandpa and Guitars/03 Family Feud.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2006-04",
+          "title": "Swing",
+          "vocalsFile": "2006 - Grandpa and Guitars/04 Swing.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2006-05",
+          "title": "Reg Dwight - The Musical",
+          "vocalsFile": "2006 - Grandpa and Guitars/05 Reg Dwight - The Musical.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2006-06",
+          "title": "Peace",
+          "vocalsFile": "2006 - Grandpa and Guitars/06 Peace.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2006-07",
+          "title": "Higher",
+          "vocalsFile": "2006 - Grandpa and Guitars/07 Higher.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2006-08",
+          "title": "First Act Finale (War)",
+          "vocalsFile": "2006 - Grandpa and Guitars/08 First Act Finale (War).mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2006-09",
+          "title": "Ente'acte",
+          "vocalsFile": "2006 - Grandpa and Guitars/09 Ente_acte.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2006-10",
+          "title": "LOST",
+          "vocalsFile": "2006 - Grandpa and Guitars/10 LOST.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2006-11",
+          "title": "Rock Wedding",
+          "vocalsFile": "2006 - Grandpa and Guitars/11 Rock Wedding.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2006-12",
+          "title": "Gladiators",
+          "vocalsFile": "2006 - Grandpa and Guitars/12 Gladiators.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2006-13",
+          "title": "1000 Words",
+          "vocalsFile": "2006 - Grandpa and Guitars/13 1000 Words.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2007",
+      "year": 2007,
+      "title": "Saving Backwash High",
+      "folder": "2007 - Saving Backwash High",
+      "songs": [
+        {
+          "id": "2007-01",
+          "title": "Welcome",
+          "vocalsFile": "2007 - Saving Backwash High/01 Welcome.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2007-02",
+          "title": "Freedom",
+          "vocalsFile": "2007 - Saving Backwash High/02 Freedom.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2007-03",
+          "title": "SOS",
+          "vocalsFile": "2007 - Saving Backwash High/03 SOS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2007-04",
+          "title": "The Good, The Bad and The Sausage",
+          "vocalsFile": "2007 - Saving Backwash High/04 The Good, The Bad and The Sausage.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2007-05",
+          "title": "Finding Emo",
+          "vocalsFile": "2007 - Saving Backwash High/05 Finding Emo.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2007-06",
+          "title": "I Heard it in Detention",
+          "vocalsFile": "2007 - Saving Backwash High/06 I Heard it in Detention.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2007-07",
+          "title": "Stay Cool",
+          "vocalsFile": "2007 - Saving Backwash High/07 Stay Cool.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2007-08",
+          "title": "First Act Finale",
+          "vocalsFile": "2007 - Saving Backwash High/08 First Act Finale.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2007-09",
+          "title": "Red Alert",
+          "vocalsFile": "2007 - Saving Backwash High/09 Red Alert.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2007-10",
+          "title": "Musical Trivia",
+          "vocalsFile": "2007 - Saving Backwash High/10 Musical Trivia.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2007-11",
+          "title": "Love Trigonometry",
+          "vocalsFile": "2007 - Saving Backwash High/11 Love Trigonometry.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2007-12",
+          "title": "Beep Test",
+          "vocalsFile": "2007 - Saving Backwash High/12 Beep Test.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2007-13",
+          "title": "We Can All Be Heros",
+          "vocalsFile": "2007 - Saving Backwash High/13 We Can All Be Heros.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2008",
+      "year": 2008,
+      "title": "Sunshine Harvester Mystery",
+      "folder": "2008 - Sunshine Harvester Mystery",
+      "songs": [
+        {
+          "id": "2008-01",
+          "title": "Reach For The Stars",
+          "vocalsFile": "2008 - Sunshine Harvester Mystery/01 Reach For The Stars.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2008-02",
+          "title": "Blame",
+          "vocalsFile": "2008 - Sunshine Harvester Mystery/02 Blame.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2008-03",
+          "title": "Find The Clues",
+          "vocalsFile": "2008 - Sunshine Harvester Mystery/03 Find The Clues.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2008-04",
+          "title": "Need The Sun",
+          "vocalsFile": "2008 - Sunshine Harvester Mystery/04 Need The Sun.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2008-05",
+          "title": "Gotta Be About Money",
+          "vocalsFile": "2008 - Sunshine Harvester Mystery/05 Gotta Be About Money.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2008-06",
+          "title": "Stop The Press",
+          "vocalsFile": "2008 - Sunshine Harvester Mystery/06 Stop The Press.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2008-07",
+          "title": "Surveillance Tape",
+          "vocalsFile": "2008 - Sunshine Harvester Mystery/07 Surveillance Tape.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2008-08",
+          "title": "Smugglers",
+          "vocalsFile": "2008 - Sunshine Harvester Mystery/08 Smugglers.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2008-09",
+          "title": "All She Wants",
+          "vocalsFile": "2008 - Sunshine Harvester Mystery/09 All She Wants.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2008-10",
+          "title": "Outer Space",
+          "vocalsFile": "2008 - Sunshine Harvester Mystery/10 Outer Space.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2008-11",
+          "title": "Gonna Explode",
+          "vocalsFile": "2008 - Sunshine Harvester Mystery/11 Gonna Explode.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2008-12",
+          "title": "Sunshine",
+          "vocalsFile": "2008 - Sunshine Harvester Mystery/12 Sunshine.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2009",
+      "year": 2009,
+      "title": "What else could go wrong",
+      "folder": "2009 - What else could go wrong ",
+      "songs": [
+        {
+          "id": "2009-01",
+          "title": "Emergency List",
+          "vocalsFile": "2009 - What else could go wrong /01 Emergency List.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-02",
+          "title": "Claire's Song",
+          "vocalsFile": "2009 - What else could go wrong /03 Claire_s Song.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-03",
+          "title": "Derek's Song",
+          "vocalsFile": "2009 - What else could go wrong /05 Derek_s Song.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-04",
+          "title": "Corey's Song",
+          "vocalsFile": "2009 - What else could go wrong /07 Corey_s Song.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-05",
+          "title": "Becky's Song",
+          "vocalsFile": "2009 - What else could go wrong /09 Becky_s Song.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-06",
+          "title": "Ashley's Song",
+          "vocalsFile": "2009 - What else could go wrong /11 Ashley_s Song.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-07",
+          "title": "Which Way'",
+          "vocalsFile": "2009 - What else could go wrong /13 Which Way_.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-08",
+          "title": "Spread the Word",
+          "vocalsFile": "2009 - What else could go wrong /15 Spread the Word.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-09",
+          "title": "Friends Always",
+          "vocalsFile": "2009 - What else could go wrong /17 Friends Always.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-10",
+          "title": "Ghostbusters",
+          "vocalsFile": "2009 - What else could go wrong /19 Ghostbusters.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-11",
+          "title": "Party",
+          "vocalsFile": "2009 - What else could go wrong /21 Party.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-12",
+          "title": "What else could go Wrong'",
+          "vocalsFile": "2009 - What else could go wrong /23 What else could go Wrong_.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-13",
+          "title": "Friends through homework",
+          "vocalsFile": "2009 - What else could go wrong /25 Friends through homework.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-14",
+          "title": "Connect 2 You",
+          "vocalsFile": "2009 - What else could go wrong /27 Connect 2 You.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-15",
+          "title": "Rendezvous",
+          "vocalsFile": "2009 - What else could go wrong /29 Rendezvous.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-16",
+          "title": "Come on Over",
+          "vocalsFile": "2009 - What else could go wrong /31 Come on Over.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2009-17",
+          "title": "Always there for you",
+          "vocalsFile": "2009 - What else could go wrong /33 Always there for you.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2010",
+      "year": 2010,
+      "title": "No strings attached",
+      "folder": "2010 - No strings attached ",
+      "songs": [
+        {
+          "id": "2010-01",
+          "title": "Voting Day",
+          "vocalsFile": "2010 - No strings attached /01 Voting Day.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2010-02",
+          "title": "Sing It Out",
+          "vocalsFile": "2010 - No strings attached /03 Sing It Out.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2010-03",
+          "title": "Woodwork is so Cool",
+          "vocalsFile": "2010 - No strings attached /05 Woodwork is so Cool.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2010-04",
+          "title": "Hired Goons",
+          "vocalsFile": "2010 - No strings attached /07 Hired Goons.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2010-05",
+          "title": "Blank Canvas",
+          "vocalsFile": "2010 - No strings attached /09 Blank Canvas.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2010-06",
+          "title": "Yes We Can",
+          "vocalsFile": "2010 - No strings attached /11 Yes We Can.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2010-07",
+          "title": "Democracy",
+          "vocalsFile": "2010 - No strings attached /13 Democracy.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2010-08",
+          "title": "Who are you Voting for'",
+          "vocalsFile": "2010 - No strings attached /15 Who are you Voting for_.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2010-09",
+          "title": "Andrew's Song",
+          "vocalsFile": "2010 - No strings attached /17 Andrew_s Song.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2010-10",
+          "title": "Sugar and Spice",
+          "vocalsFile": "2010 - No strings attached /19 Sugar and Spice.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2010-11",
+          "title": "Not Any Other Day",
+          "vocalsFile": "2010 - No strings attached /21 Not Any Other Day.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2010-12",
+          "title": "It's Only Politics",
+          "vocalsFile": "2010 - No strings attached /23 It_s Only Politics.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2011",
+      "year": 2011,
+      "title": "Undies on the outside",
+      "folder": "2011 - Undies on the outside",
+      "songs": [
+        {
+          "id": "2011-01",
+          "title": "Night Of Nights",
+          "vocalsFile": null,
+          "noVocalsFile": "2011 - Undies on the outside/02 Night Of Nights (No Vocals).mp3"
+        },
+        {
+          "id": "2011-02",
+          "title": "Know it All",
+          "vocalsFile": "2011 - Undies on the outside/03 Know it All.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2011-03",
+          "title": "Know it Al",
+          "vocalsFile": null,
+          "noVocalsFile": "2011 - Undies on the outside/04 Know it Al (No Vocals).mp3"
+        },
+        {
+          "id": "2011-04",
+          "title": "Has been Heroes",
+          "vocalsFile": "2011 - Undies on the outside/05 Has been Heroes.mp3",
+          "noVocalsFile": "2011 - Undies on the outside/06 Has been Heroes (No Vocals).mp3"
+        },
+        {
+          "id": "2011-05",
+          "title": "When I rule the World",
+          "vocalsFile": "2011 - Undies on the outside/07 When I rule the World.mp3",
+          "noVocalsFile": "2011 - Undies on the outside/08 When I rule the World (No Vocals).mp3"
+        },
+        {
+          "id": "2011-06",
+          "title": "Save the Day",
+          "vocalsFile": "2011 - Undies on the outside/09 Save the Day.mp3",
+          "noVocalsFile": "2011 - Undies on the outside/10 Save the Day (No Vocals).mp3"
+        },
+        {
+          "id": "2011-07",
+          "title": "Inner Voice",
+          "vocalsFile": "2011 - Undies on the outside/11 Inner Voice.mp3",
+          "noVocalsFile": "2011 - Undies on the outside/12 Inner Voice (No Vocals).mp3"
+        },
+        {
+          "id": "2011-08",
+          "title": "Face 2 Face",
+          "vocalsFile": "2011 - Undies on the outside/13 Face 2 Face.mp3",
+          "noVocalsFile": "2011 - Undies on the outside/14 Face 2 Face (No Vocals).mp3"
+        },
+        {
+          "id": "2011-09",
+          "title": "You cannot Hide",
+          "vocalsFile": "2011 - Undies on the outside/15 You cannot Hide.mp3",
+          "noVocalsFile": "2011 - Undies on the outside/16 You cannot Hide.mp3"
+        },
+        {
+          "id": "2011-10",
+          "title": "Heroes",
+          "vocalsFile": "2011 - Undies on the outside/17 Heroes.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2011-11",
+          "title": "Brendan Rap",
+          "vocalsFile": "2011 - Undies on the outside/18 Brendan Rap.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2011-12",
+          "title": "Undies On The Outside",
+          "vocalsFile": "2011 - Undies on the outside/19 Undies On The Outside.mp3",
+          "noVocalsFile": "2011 - Undies on the outside/20 Undies On The Outside (No Vocals).mp3"
+        },
+        {
+          "id": "2011-13",
+          "title": "Stood In The Sun",
+          "vocalsFile": "2011 - Undies on the outside/21 Stood In The Sun.mp3",
+          "noVocalsFile": "2011 - Undies on the outside/22 Stood In The Sun (No Vocals).mp3"
+        },
+        {
+          "id": "2011-14",
+          "title": "Never Know",
+          "vocalsFile": "2011 - Undies on the outside/23 Never Know.mp3",
+          "noVocalsFile": "2011 - Undies on the outside/24 Never Know (No Vocals).mp3"
+        },
+        {
+          "id": "2011-15",
+          "title": "Faceless",
+          "vocalsFile": "2011 - Undies on the outside/25 Faceless.mp3",
+          "noVocalsFile": "2011 - Undies on the outside/26 Faceless (No Vocals).mp3"
+        },
+        {
+          "id": "2011-16",
+          "title": "Scarves Of Blue",
+          "vocalsFile": "2011 - Undies on the outside/27 Scarves Of Blue.mp3",
+          "noVocalsFile": "2011 - Undies on the outside/28 Scarves Of Blue (No Vocals).mp3"
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2012",
+      "year": 2012,
+      "title": "Sweet as",
+      "folder": "2012 - Sweet as",
+      "songs": [
+        {
+          "id": "2012-01",
+          "title": "1.1 Sugar",
+          "vocalsFile": "2012 - Sweet as/01 1.1 Sugar.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2012-02",
+          "title": "1.4 Sugar High",
+          "vocalsFile": "2012 - Sweet as/03 1.4 Sugar High.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2012-03",
+          "title": "2.2 Three",
+          "vocalsFile": "2012 - Sweet as/05 2.2 Three.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2012-04",
+          "title": "2.5 Going On A Quest",
+          "vocalsFile": "2012 - Sweet as/07 2.5 Going On A Quest.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2012-05",
+          "title": "3.4 Journey's End",
+          "vocalsFile": "2012 - Sweet as/09 3.4 Journey_s End.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2012-06",
+          "title": "3.6 Sugar Grans & Sugar Daddies",
+          "vocalsFile": "2012 - Sweet as/11 3.6 Sugar Grans & Sugar Daddies.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2012-07",
+          "title": "5.1 Poncho's Guide To Sugar La",
+          "vocalsFile": "2012 - Sweet as/15 5.1 Poncho_s Guide To Sugar La.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2012-08",
+          "title": "5.4 Keep The Faith",
+          "vocalsFile": "2012 - Sweet as/17 5.4 Keep The Faith.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2012-09",
+          "title": "6.2 Conspiracy",
+          "vocalsFile": "2012 - Sweet as/19 6.2 Conspiracy.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2012-10",
+          "title": "6.5 Julius",
+          "vocalsFile": "2012 - Sweet as/21 6.5 Julius.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2012-11",
+          "title": "7.3 Remember When",
+          "vocalsFile": "2012 - Sweet as/25 7.3 Remember When.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2013",
+      "year": 2013,
+      "title": "Framed",
+      "folder": "2013 - Framed",
+      "songs": [
+        {
+          "id": "2013-01",
+          "title": "The Movie Screen",
+          "vocalsFile": "2013 - Framed/01 The Movie Screen (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/01 The Movie Screen (No Vocals).mp3"
+        },
+        {
+          "id": "2013-02",
+          "title": "Sucked In",
+          "vocalsFile": "2013 - Framed/02 Sucked In (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/02 Sucked In (No Vocals).mp3"
+        },
+        {
+          "id": "2013-03",
+          "title": "The (Chevy) Chase",
+          "vocalsFile": "2013 - Framed/03 The (Chevy) Chase (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/03 The (Chevy) Chase (No Vocals).mp3"
+        },
+        {
+          "id": "2013-04",
+          "title": "Wedding Crashers",
+          "vocalsFile": "2013 - Framed/04 Wedding Crashers (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/04 Wedding Crashers (No Vocals).mp3"
+        },
+        {
+          "id": "2013-05",
+          "title": "April and the Turtles",
+          "vocalsFile": "2013 - Framed/05 April and the Turtles (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/05 April and the Turtles (No Vocals).mp3"
+        },
+        {
+          "id": "2013-06",
+          "title": "Police Academy",
+          "vocalsFile": "2013 - Framed/06 Police Academy (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/06 Police Academy (No Vocals).mp3"
+        },
+        {
+          "id": "2013-07",
+          "title": "Happily Ever After",
+          "vocalsFile": "2013 - Framed/07 Happily Ever After (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/07 Happily Ever After (No Vocals).mp3"
+        },
+        {
+          "id": "2013-08",
+          "title": "Unhappily Ever After",
+          "vocalsFile": "2013 - Framed/08 Unhappily Ever After (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/08 Unhappily Ever After (No Vocals).mp3"
+        },
+        {
+          "id": "2013-09",
+          "title": "Honkytonk",
+          "vocalsFile": "2013 - Framed/09 Honkytonk (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/09 Honkytonk (No Vocals).mp3"
+        },
+        {
+          "id": "2013-10",
+          "title": "Rattlesnake",
+          "vocalsFile": "2013 - Framed/10 Rattlesnake (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/10 Rattlesnake (No Vocals).mp3"
+        },
+        {
+          "id": "2013-11",
+          "title": "This Town Ain't Big Enough",
+          "vocalsFile": "2013 - Framed/11 This Town Ain_t Big Enough (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/11 This Town Ain_t Big Enough (No Vocals).mp3"
+        },
+        {
+          "id": "2013-12",
+          "title": "I Wanna Be In The Movies",
+          "vocalsFile": "2013 - Framed/12 I Wanna Be In The Movies (Vocals).mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2013-13",
+          "title": "Home Alone",
+          "vocalsFile": "2013 - Framed/13 Home Alone (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/13 Home Alone (No Vocals).mp3"
+        },
+        {
+          "id": "2013-14",
+          "title": "Moonstruck",
+          "vocalsFile": "2013 - Framed/14 Moonstruck (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/14 Moonstruck (No Vocals).mp3"
+        },
+        {
+          "id": "2013-15",
+          "title": "Scarves Of Blue",
+          "vocalsFile": "2013 - Framed/15 Scarves Of Blue (Vocals).mp3",
+          "noVocalsFile": "2013 - Framed/15 Scarves Of Blue (No Vocals).mp3"
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2014",
+      "year": 2014,
+      "title": "50",
+      "folder": "2014 - 50",
+      "songs": [
+        {
+          "id": "2014-01",
+          "title": "Big Part Of My Life",
+          "vocalsFile": "2014 - 50/01 Big Part Of My Life.mp3",
+          "noVocalsFile": "2014 - 50/01 Big Part Of My Life (no vocals).mp3"
+        },
+        {
+          "id": "2014-02",
+          "title": "Crazy Bunch",
+          "vocalsFile": "2014 - 50/02 Crazy Bunch.mp3",
+          "noVocalsFile": "2014 - 50/02 Crazy Bunch (no vocals).mp3"
+        },
+        {
+          "id": "2014-03",
+          "title": "Best Years",
+          "vocalsFile": "2014 - 50/03 Best Years.mp3",
+          "noVocalsFile": "2014 - 50/03 Best Years (no vocals).mp3"
+        },
+        {
+          "id": "2014-04",
+          "title": "Best Years(1)",
+          "vocalsFile": "2014 - 50/03 Best Years(1).mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2014-05",
+          "title": "Brand New Uniform",
+          "vocalsFile": "2014 - 50/04 Brand New Uniform.mp3",
+          "noVocalsFile": "2014 - 50/04 Brand New Uniform (no vocals).mp3"
+        },
+        {
+          "id": "2014-06",
+          "title": "Rules Of The Yard",
+          "vocalsFile": "2014 - 50/05 Rules Of The Yard.mp3",
+          "noVocalsFile": "2014 - 50/05 Rules Of The Yard (no vocals).mp3"
+        },
+        {
+          "id": "2014-07",
+          "title": "Diary Of A Wimpy Simon",
+          "vocalsFile": null,
+          "noVocalsFile": "2014 - 50/06 Diary Of A Wimpy Simon (no vocals).mp3"
+        },
+        {
+          "id": "2014-08",
+          "title": "Wimpy Simon",
+          "vocalsFile": "2014 - 50/06 Wimpy Simon.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2014-09",
+          "title": "Who I Am",
+          "vocalsFile": "2014 - 50/07 Who I Am.mp3",
+          "noVocalsFile": "2014 - 50/07 Who I Am (no vocals).mp3"
+        },
+        {
+          "id": "2014-10",
+          "title": "Be Yourself",
+          "vocalsFile": "2014 - 50/08 Be Yourself.mp3",
+          "noVocalsFile": "2014 - 50/08 Be Yourself (no vocals).mp3"
+        },
+        {
+          "id": "2014-11",
+          "title": "Climbing The Ladder",
+          "vocalsFile": "2014 - 50/09 Climbing The Ladder.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2014-12",
+          "title": "Working Song",
+          "vocalsFile": null,
+          "noVocalsFile": "2014 - 50/09 Working Song (no vocals).mp3"
+        },
+        {
+          "id": "2014-13",
+          "title": "Social Rules",
+          "vocalsFile": "2014 - 50/10 Social Rules.mp3",
+          "noVocalsFile": "2014 - 50/10 Social Rules (no vocals).mp3"
+        },
+        {
+          "id": "2014-14",
+          "title": "My Time",
+          "vocalsFile": "2014 - 50/11 My Time.mp3",
+          "noVocalsFile": "2014 - 50/11 My Time (no vocals).mp3"
+        },
+        {
+          "id": "2014-15",
+          "title": "My Time 2",
+          "vocalsFile": "2014 - 50/11 My Time 2.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2014-16",
+          "title": "Silver Woggle",
+          "vocalsFile": "2014 - 50/12 Silver Woggle.mp3",
+          "noVocalsFile": "2014 - 50/12 Silver Woggle (no vocals).mp3"
+        },
+        {
+          "id": "2014-17",
+          "title": "Siege Of Mafeking",
+          "vocalsFile": "2014 - 50/13 Siege Of Mafeking.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2014-18",
+          "title": "This Is Who I Am",
+          "vocalsFile": "2014 - 50/14 This Is Who I Am.mp3",
+          "noVocalsFile": "2014 - 50/14 This Is Who I Am (no vocals).mp3"
+        },
+        {
+          "id": "2014-19",
+          "title": "Scarves Of Blue",
+          "vocalsFile": "2014 - 50/15 Scarves Of Blue.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2015",
+      "year": 2015,
+      "title": "Brand New Day",
+      "folder": "2015 - Brand New Day",
+      "songs": [
+        {
+          "id": "2015-01",
+          "title": "Brand New Day",
+          "vocalsFile": "2015 - Brand New Day/01 - Brand New Day - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/01 - Brand New Day - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-02",
+          "title": "Wealth & Power",
+          "vocalsFile": "2015 - Brand New Day/02 - Wealth & Power - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/02 - Wealth & Power - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-03",
+          "title": "Enter Light",
+          "vocalsFile": "2015 - Brand New Day/03 - Enter Light - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/03 - Enter Light - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-04",
+          "title": "1234",
+          "vocalsFile": "2015 - Brand New Day/04 - 1234 - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/04 - 1234 - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-05",
+          "title": "One Way Exodus LIVE",
+          "vocalsFile": "2015 - Brand New Day/05 - One Way Exodus LIVE - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/05 - One Way Exodus LIVE - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-06",
+          "title": "Gimme Fame",
+          "vocalsFile": "2015 - Brand New Day/06 - Gimme Fame - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/06 - Gimme Fame - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-07",
+          "title": "Take Back Control",
+          "vocalsFile": "2015 - Brand New Day/07 - Take Back Control - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/07 - Take Back Control - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-08",
+          "title": "Outflow (Em)",
+          "vocalsFile": "2015 - Brand New Day/08 - Outflow (Em).mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2015-09",
+          "title": "Forgotten Hero",
+          "vocalsFile": "2015 - Brand New Day/09 - Forgotten Hero - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/09 - Forgotten Hero - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-10",
+          "title": "Country Thing",
+          "vocalsFile": "2015 - Brand New Day/10 - Country Thing - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/10 - Country Thing - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-11",
+          "title": "Launch",
+          "vocalsFile": "2015 - Brand New Day/11 - Launch - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/11 - Launch - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-12",
+          "title": "On The Run",
+          "vocalsFile": "2015 - Brand New Day/12 - On The Run - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/12 - On The Run - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-13",
+          "title": "Brand New Day Reprise",
+          "vocalsFile": "2015 - Brand New Day/13 - Brand New Day Reprise - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/13 - Brand New Day Reprise - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-14",
+          "title": "PreFinale",
+          "vocalsFile": "2015 - Brand New Day/14 - PreFinale - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/14 - PreFinale - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-15",
+          "title": "Scarves Of Blue",
+          "vocalsFile": "2015 - Brand New Day/15 - Scarves Of Blue - VOCALS.mp3",
+          "noVocalsFile": "2015 - Brand New Day/15 - Scarves Of Blue - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2015-16",
+          "title": "Launch Harmonies",
+          "vocalsFile": "2015 - Brand New Day/Launch Harmonies.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2015-17",
+          "title": "On the Run II",
+          "vocalsFile": "2015 - Brand New Day/On the Run II.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2015-18",
+          "title": "RJ 2015 piano ballad mix",
+          "vocalsFile": "2015 - Brand New Day/RJ 2015 piano ballad mix.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2016",
+      "year": 2016,
+      "title": "Beyond The Wall",
+      "folder": "2016 - Beyond The Wall",
+      "songs": [
+        {
+          "id": "2016-01",
+          "title": "Our Town",
+          "vocalsFile": "2016 - Beyond The Wall/1.1 Our Town - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2016-02",
+          "title": "Nursery Rhymes",
+          "vocalsFile": "2016 - Beyond The Wall/1.2 Nursery Rhymes - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2016-03",
+          "title": "I'm Free",
+          "vocalsFile": "2016 - Beyond The Wall/2.1 I_m Free - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2016-04",
+          "title": "What It Takes",
+          "vocalsFile": "2016 - Beyond The Wall/2.2 What It Takes - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2016-05",
+          "title": "Start To Fly",
+          "vocalsFile": "2016 - Beyond The Wall/3.1 Start To Fly - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2016-06",
+          "title": "a Siren",
+          "vocalsFile": "2016 - Beyond The Wall/3.2a Siren - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2016-07",
+          "title": "b Arrival",
+          "vocalsFile": "2016 - Beyond The Wall/3.2b Arrival - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2016-08",
+          "title": "Both Sides Of The Wall",
+          "vocalsFile": "2016 - Beyond The Wall/4.1 Both Sides Of The Wall - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2016-09",
+          "title": "Goodbye Nomads",
+          "vocalsFile": "2016 - Beyond The Wall/5.1 Goodbye Nomads - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2016-10",
+          "title": "Immortals",
+          "vocalsFile": "2016 - Beyond The Wall/5.2 Immortals - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2016-11",
+          "title": "No Time For Goodbyes",
+          "vocalsFile": "2016 - Beyond The Wall/6.1 No Time For Goodbyes - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2016-12",
+          "title": "Love Song #3",
+          "vocalsFile": "2016 - Beyond The Wall/6.2 Love Song #3 - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2016-13",
+          "title": "Kids Can Save The World",
+          "vocalsFile": "2016 - Beyond The Wall/6.3 Kids Can Save The World - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2016-14",
+          "title": "Scarves Of Blue",
+          "vocalsFile": "2016 - Beyond The Wall/8.3 Scarves Of Blue - VOCALS.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2017",
+      "year": 2017,
+      "title": "The Other Side",
+      "folder": "2017 - The Other Side",
+      "songs": [
+        {
+          "id": "2017-01",
+          "title": "1.1 Intro - Welcome To The Court",
+          "vocalsFile": "2017 - The Other Side/01 1.1 Intro - Welcome To The Court - VOCALS.mp3",
+          "noVocalsFile": "2017 - The Other Side/01 1.1 Intro - Welcome To The Court - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2017-02",
+          "title": "1.2 New Beginning",
+          "vocalsFile": "2017 - The Other Side/02 1.2 New Beginning - VOCALS.mp3",
+          "noVocalsFile": "2017 - The Other Side/02 1.2 New Beginning - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2017-03",
+          "title": "2.1 Won't Give Up",
+          "vocalsFile": "2017 - The Other Side/03 2.1 Won_t Give Up - VOCALS.mp3",
+          "noVocalsFile": "2017 - The Other Side/03 2.1 Won_t Give Up - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2017-04",
+          "title": "2.2 Not Quite Right",
+          "vocalsFile": "2017 - The Other Side/04 2.2 Not Quite Right - VOCALS.mp3",
+          "noVocalsFile": "2017 - The Other Side/04 2.2 Not Quite Right - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2017-05",
+          "title": "3.1 Protector Of The Prophecy",
+          "vocalsFile": "2017 - The Other Side/05 3.1 Protector Of The Prophecy - VOCALS.mp3",
+          "noVocalsFile": "2017 - The Other Side/05 3.1 Protector Of The Prophecy - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2017-06",
+          "title": "3.2 Foretold",
+          "vocalsFile": "2017 - The Other Side/06 3.2 Foretold - VOCALS.mp3",
+          "noVocalsFile": "2017 - The Other Side/06 3.2 Foretold - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2017-07",
+          "title": "4.1 Believe In Believing",
+          "vocalsFile": "2017 - The Other Side/07 4.1 Believe In Believing - VOCALS.mp3",
+          "noVocalsFile": "2017 - The Other Side/07 4.1 Believe In Believing - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2017-08",
+          "title": "5.1 Mystical School",
+          "vocalsFile": "2017 - The Other Side/08 5.1 Mystical School - VOCALS.mp3",
+          "noVocalsFile": "2017 - The Other Side/08 5.1 Mystical School - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2017-09",
+          "title": "5.2 Moving On",
+          "vocalsFile": "2017 - The Other Side/09 5.2 Moving On - VOCALS.mp3",
+          "noVocalsFile": "2017 - The Other Side/09 5.2 Moving On - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2017-10",
+          "title": "6.1 Doomsday",
+          "vocalsFile": "2017 - The Other Side/10 6.1 Doomsday - VOCALS.mp3",
+          "noVocalsFile": "2017 - The Other Side/10 6.1 Doomsday - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2017-11",
+          "title": "6.2 United",
+          "vocalsFile": "2017 - The Other Side/11 6.2 United - VOCALS.mp3",
+          "noVocalsFile": "2017 - The Other Side/11 6.2 United - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2017-12",
+          "title": "7.1 Bow To Me",
+          "vocalsFile": "2017 - The Other Side/12 7.1 Bow To Me - VOCALS.mp3",
+          "noVocalsFile": "2017 - The Other Side/12 7.1 Bow To Me - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2017-13",
+          "title": "8.3 Scarves Of Blue",
+          "vocalsFile": "2017 - The Other Side/13 8.3 Scarves Of Blue - VOCALS.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2018",
+      "year": 2018,
+      "title": "Snowed Inn",
+      "folder": "2018 - Snowed Inn",
+      "songs": [
+        {
+          "id": "2018-01",
+          "title": "Am I Ready",
+          "vocalsFile": "2018 - Snowed Inn/01 Am I Ready.mp3",
+          "noVocalsFile": "2018 - Snowed Inn/01 Am I Ready - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2018-02",
+          "title": "Left Right",
+          "vocalsFile": "2018 - Snowed Inn/02 Left Right.mp3",
+          "noVocalsFile": "2018 - Snowed Inn/02 Left Right - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2018-03",
+          "title": "The Great Outdoors",
+          "vocalsFile": "2018 - Snowed Inn/03 The Great Outdoors.mp3",
+          "noVocalsFile": "2018 - Snowed Inn/03 The Great Outdoors - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2018-04",
+          "title": "Uphill Both Ways",
+          "vocalsFile": "2018 - Snowed Inn/04 Uphill Both Ways.mp3",
+          "noVocalsFile": "2018 - Snowed Inn/04 Uphill Both Ways - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2018-05",
+          "title": "Hey Ho",
+          "vocalsFile": "2018 - Snowed Inn/05 Hey Ho.mp3",
+          "noVocalsFile": "2018 - Snowed Inn/05 Hey Ho - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2018-06",
+          "title": "Cabin Fever",
+          "vocalsFile": "2018 - Snowed Inn/07 Cabin Fever.mp3",
+          "noVocalsFile": "2018 - Snowed Inn/07 Cabin Fever - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2018-07",
+          "title": "Turn Up The Heat",
+          "vocalsFile": "2018 - Snowed Inn/08 Turn Up The Heat.mp3",
+          "noVocalsFile": "2018 - Snowed Inn/08 Turn Up The Heat - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2018-08",
+          "title": "Getting Away With It",
+          "vocalsFile": null,
+          "noVocalsFile": "2018 - Snowed Inn/09 Getting Away With It - INTRUMENTAL.mp3"
+        },
+        {
+          "id": "2018-09",
+          "title": "Getting Away with This",
+          "vocalsFile": "2018 - Snowed Inn/09 Getting Away with This.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2018-10",
+          "title": "Gonna Find You",
+          "vocalsFile": "2018 - Snowed Inn/10 Gonna Find You.mp3",
+          "noVocalsFile": "2018 - Snowed Inn/10 Gonna Find You - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2018-11",
+          "title": "Bogong Vice",
+          "vocalsFile": "2018 - Snowed Inn/11 Bogong Vice.mp3",
+          "noVocalsFile": "2018 - Snowed Inn/11 Bogong Vice - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2018-12",
+          "title": "A Little Love",
+          "vocalsFile": "2018 - Snowed Inn/12 A Little Love.mp3",
+          "noVocalsFile": "2018 - Snowed Inn/12 A Little Love - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2018-13",
+          "title": "Hallelujah",
+          "vocalsFile": "2018 - Snowed Inn/13 Hallelujah.mp3",
+          "noVocalsFile": "2018 - Snowed Inn/13 Hallelujah - INSTRUMENTAL.mp3"
+        },
+        {
+          "id": "2018-14",
+          "title": "Scarves Of Blue",
+          "vocalsFile": "2018 - Snowed Inn/15 Scarves Of Blue.mp3",
+          "noVocalsFile": "2018 - Snowed Inn/15 Scarves Of Blue - INSTRUMENTAL.mp3"
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2019",
+      "year": 2019,
+      "title": "Watch this space",
+      "folder": "2019 - Watch this space",
+      "songs": [
+        {
+          "id": "2019-01",
+          "title": "Zap's The Way",
+          "vocalsFile": "2019 - Watch this space/01 Zap_s The Way.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2019-02",
+          "title": "Our Hero",
+          "vocalsFile": "2019 - Watch this space/02 Our Hero.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2019-03",
+          "title": "Call To Adventure",
+          "vocalsFile": "2019 - Watch this space/03 Call To Adventure.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2019-04",
+          "title": "Space Crusaders",
+          "vocalsFile": "2019 - Watch this space/04 Space Crusaders.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2019-05",
+          "title": "Disco Superstition",
+          "vocalsFile": "2019 - Watch this space/05 Disco Superstition.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2019-06",
+          "title": "Welcome",
+          "vocalsFile": "2019 - Watch this space/06 Welcome.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2019-07",
+          "title": "The Planet of Penguins",
+          "vocalsFile": "2019 - Watch this space/07 The Planet of Penguins.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2019-08",
+          "title": "Sector Three",
+          "vocalsFile": "2019 - Watch this space/08 Sector Three.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2019-09",
+          "title": "Song.exe",
+          "vocalsFile": "2019 - Watch this space/09 Song.exe.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2019-10",
+          "title": "Flash (The Musical)",
+          "vocalsFile": "2019 - Watch this space/10 - Flash (The Musical).mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2019-11",
+          "title": "The Planet Is Exploding",
+          "vocalsFile": "2019 - Watch this space/11 The Planet Is Exploding.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2019-12",
+          "title": "Doomed",
+          "vocalsFile": "2019 - Watch this space/12 Doomed.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2019-13",
+          "title": "Save The Day",
+          "vocalsFile": "2019 - Watch this space/13 Save The Day.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2019-14",
+          "title": "Scarves Of Blue",
+          "vocalsFile": "2019 - Watch this space/14 Scarves Of Blue.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2022",
+      "year": 2022,
+      "title": "Double Feature - Game of Phones and The House",
+      "folder": "2022 - Double Feature - Game of Phones and The House",
+      "songs": [
+        {
+          "id": "2022-01",
+          "title": "The House Theme",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/1.1 The House Theme.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2022-01r",
+          "title": "The House Theme (Reprise)",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/3.5 The House Theme.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/3.5 The House Theme - No Vocals.mp3"
+        },
+        {
+          "id": "2022-02",
+          "title": "Everything is Perfect",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/1.2 Everything is Perfect.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/1.2 Everything is Perfect.mp3"
+        },
+        {
+          "id": "2022-03",
+          "title": "Looking For Adventure",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/1.4 Looking For Adventure.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/1.4 Looking For Adventure - No Vocals.mp3"
+        },
+        {
+          "id": "2022-04",
+          "title": "Ghost Hunters",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/2.1 Ghost Hunters.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/2.1 Ghost Hunters - No Vocals.mp3"
+        },
+        {
+          "id": "2022-05",
+          "title": "What's the Worst'",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/2.4 What_s the Worst_.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/2.4 What_s the Worst_ - No Vocals.mp3"
+        },
+        {
+          "id": "2022-06",
+          "title": "Fun Time is Over",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/3.2 Fun Time is Over.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/3.2 Fun Time is Over - No Vocals.mp3"
+        },
+        {
+          "id": "2022-07",
+          "title": "Ghost Rave",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/4.2 Ghost Rave.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/4.2 Ghost Rave - No Vocals.mp3"
+        },
+        {
+          "id": "2022-08",
+          "title": "Keeping Connected",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/5.3 Keeping Connected.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/5.3 Keeping Connected - No Vocals.mp3"
+        },
+        {
+          "id": "2022-09",
+          "title": "Changes",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/5.5 Changes.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/5.5 Changes - No Vocals.mp3"
+        },
+        {
+          "id": "2022-10",
+          "title": "Anywhere But Here",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/6.1 Anywhere But Here.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/6.1 Anywhere But Here - No Vocals.mp3"
+        },
+        {
+          "id": "2022-11",
+          "title": "All in a Day's Work",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/6.4 All in a Day_s Work.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/6.4 All in a Day_s Work - No Vocals.mp3"
+        },
+        {
+          "id": "2022-12",
+          "title": "Swipe Right For Life",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/7.2 Swipe Right For Life.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/7.2 Swipe Right For Life - No Vocals.mp3"
+        },
+        {
+          "id": "2022-13",
+          "title": "Phone Call To Arms",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/7.5 Phone Call To Arms.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/7.5 Phone Call to Arms - No Vocals.mp3"
+        },
+        {
+          "id": "2022-14",
+          "title": "Scarves of Blue",
+          "vocalsFile": "2022 - Double Feature - Game of Phones and The House/8.2 Scarves of Blue.mp3",
+          "noVocalsFile": "2022 - Double Feature - Game of Phones and The House/No Vocals/8.2 Scarves of Blue - No Vocals.mp3"
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2023",
+      "year": 2023,
+      "title": "Battle Royale",
+      "folder": "2023 - Battle Royale",
+      "songs": [
+        {
+          "id": "2023-01",
+          "title": "Coronation Kind of Day",
+          "vocalsFile": "2023 - Battle Royale/1.3 Coronation Kind of Day.mp3",
+          "noVocalsFile": "2023 - Battle Royale/1.3 Coronation Kind of Day (No Vocals).mp3"
+        },
+        {
+          "id": "2023-02",
+          "title": "Watching From The Side",
+          "vocalsFile": "2023 - Battle Royale/1.4 Watching From The Side.mp3",
+          "noVocalsFile": "2023 - Battle Royale/1.4 Watching From The Side (No Vocals).mp3"
+        },
+        {
+          "id": "2023-03",
+          "title": "Family History",
+          "vocalsFile": "2023 - Battle Royale/2.1 Family History.mp3",
+          "noVocalsFile": "2023 - Battle Royale/2.1 Family History (No Vocals).mp3"
+        },
+        {
+          "id": "2023-04",
+          "title": "Say the Magic Word",
+          "vocalsFile": "2023 - Battle Royale/2.4 Say the Magic Word.mp3",
+          "noVocalsFile": "2023 - Battle Royale/2.4 Say the Magic Word (No Vocals).mp3"
+        },
+        {
+          "id": "2023-05",
+          "title": "Life in a Zoo",
+          "vocalsFile": "2023 - Battle Royale/3.1 Life in a Zoo.mp3",
+          "noVocalsFile": "2023 - Battle Royale/3.1 Life in a Zoo (No Vocals).mp3"
+        },
+        {
+          "id": "2023-06",
+          "title": "Don't Discount",
+          "vocalsFile": "2023 - Battle Royale/3.5 Don_t Discount.mp3",
+          "noVocalsFile": "2023 - Battle Royale/3.5 Don_t Discount (No Vocals).mp3"
+        },
+        {
+          "id": "2023-07",
+          "title": "Coronation Kind Of Night",
+          "vocalsFile": "2023 - Battle Royale/4.3 Coronation Kind Of Night.mp3",
+          "noVocalsFile": "2023 - Battle Royale/4.3 Coronation Kind Of Night (No Vocals).mp3"
+        },
+        {
+          "id": "2023-08",
+          "title": "One Year Later",
+          "vocalsFile": "2023 - Battle Royale/5.1 One Year Later.mp3",
+          "noVocalsFile": "2023 - Battle Royale/5.1 One Year Later (No Vocals).mp3"
+        },
+        {
+          "id": "2023-09",
+          "title": "Wish You Were Here",
+          "vocalsFile": "2023 - Battle Royale/5.4 Wish You Were Here.mp3",
+          "noVocalsFile": "2023 - Battle Royale/5.4 Wish You Were Here (No Vocals).mp3"
+        },
+        {
+          "id": "2023-10",
+          "title": "Great to be Us",
+          "vocalsFile": "2023 - Battle Royale/6.2 Great to be Us.mp3",
+          "noVocalsFile": "2023 - Battle Royale/6.2 Great to be Us (No Vocals).mp3"
+        },
+        {
+          "id": "2023-11",
+          "title": "Light The Way",
+          "vocalsFile": "2023 - Battle Royale/6.5 Light The Way.mp3",
+          "noVocalsFile": "2023 - Battle Royale/6.5 Light The Way (No Vocals).mp3"
+        },
+        {
+          "id": "2023-12",
+          "title": "Nothing Bad Will Ever Happen Now",
+          "vocalsFile": "2023 - Battle Royale/7.4 Nothing Bad Will Ever Happen Now.mp3",
+          "noVocalsFile": "2023 - Battle Royale/7.4 Nothing Bad Will Ever Happen Now (No Vocals).mp3"
+        },
+        {
+          "id": "2023-13",
+          "title": "Scarves of Blue",
+          "vocalsFile": "2023 - Battle Royale/8.2 Scarves of Blue.mp3",
+          "noVocalsFile": "2023 - Battle Royale/8.2 Scarves of Blue (No Vocals).mp3"
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2024",
+      "year": 2024,
+      "title": "Camp Chaos",
+      "folder": "2024 - Camp Chaos",
+      "songs": [
+        {
+          "id": "2024-01",
+          "title": "Chaos Last One Standing",
+          "vocalsFile": "2024 - Camp Chaos/1.2 Chaos Last One Standing.mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/1.2 Chaos Last One Standing (No Vocals).mp3"
+        },
+        {
+          "id": "2024-02",
+          "title": "Surviving Alone Theme Song",
+          "vocalsFile": "2024 - Camp Chaos/1.4 Surviving Alone Theme Song.mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/1.4 Surviving Alone Theme Song (No Vocals).mp3"
+        },
+        {
+          "id": "2024-03",
+          "title": "Don't Come Back Home",
+          "vocalsFile": "2024 - Camp Chaos/1.7 Don_t Come Back Home.mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/1.7 Don_t Come Back Home (No Vocals).mp3"
+        },
+        {
+          "id": "2024-04",
+          "title": "Stay Tuned",
+          "vocalsFile": "2024 - Camp Chaos/2.4 Stay Tuned.mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/2.4 Stay Tuned (No Vocals).mp3"
+        },
+        {
+          "id": "2024-05",
+          "title": "The Challenge",
+          "vocalsFile": "2024 - Camp Chaos/2.6 The Challenge.mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/2.6 The Challenge (No Vocals).mp3"
+        },
+        {
+          "id": "2024-06",
+          "title": "Take What We Want",
+          "vocalsFile": "2024 - Camp Chaos/3.3 Take What We Want.mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/3.3 Take What We Want (No Vocals).mp3"
+        },
+        {
+          "id": "2024-07",
+          "title": "Trapped in the Shame Cage",
+          "vocalsFile": "2024 - Camp Chaos/3.6 Trapped in the Shame Cage.mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/3.6 Trapped in the Shame Cage (No Vocals).mp3"
+        },
+        {
+          "id": "2024-08",
+          "title": "Last One Standing",
+          "vocalsFile": "2024 - Camp Chaos/4.3 Last One Standing.mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/4.3 Last One Standing (No Vocals).mp3"
+        },
+        {
+          "id": "2024-09",
+          "title": "New World Order",
+          "vocalsFile": "2024 - Camp Chaos/5.1 New World Order.mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/5.1 New World Order (No Vocals).mp3"
+        },
+        {
+          "id": "2024-10",
+          "title": "Busting In",
+          "vocalsFile": "2024 - Camp Chaos/5.5 Busting In.mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/5.5 Busting In (No Vocals).mp3"
+        },
+        {
+          "id": "2024-11",
+          "title": "A Pirate Life (Hoist Up the Sales)",
+          "vocalsFile": "2024 - Camp Chaos/6.2 A Pirate Life (Hoist Up the Sales).mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/6.2 A Pirate Life (Hoist Up the Sales) (No Vocals).mp3"
+        },
+        {
+          "id": "2024-12",
+          "title": "Take the Power Back",
+          "vocalsFile": "2024 - Camp Chaos/6.6 Take the Power Back.mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/6.6 Take the Power Back (No Vocals).mp3"
+        },
+        {
+          "id": "2024-13",
+          "title": "That's a Wrap",
+          "vocalsFile": "2024 - Camp Chaos/7.3 That_s a Wrap.mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/7.3 That_s a Wrap (No Vocals).mp3"
+        },
+        {
+          "id": "2024-14",
+          "title": "Scarves of Blue",
+          "vocalsFile": "2024 - Camp Chaos/8.1 Scarves of Blue.mp3",
+          "noVocalsFile": "2024 - Camp Chaos/No Vocals/8.1 Scarves of Blue (No Vocals).mp3"
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2025",
+      "year": 2025,
+      "title": "Riffs and Roadblocks",
+      "folder": "2025 - Riffs and Roadblocks",
+      "songs": [
+        {
+          "id": "2025-01",
+          "title": "Fender Benders",
+          "vocalsFile": "2025 - Riffs and Roadblocks/1.3 Fender Benders.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/1.3 Fender Benders (No Vocals).mp3"
+        },
+        {
+          "id": "2025-02",
+          "title": "Whatever it Takes",
+          "vocalsFile": "2025 - Riffs and Roadblocks/1.5 Whatever it Takes.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/1.5 Whatever it Takes (No Vocals).mp3"
+        },
+        {
+          "id": "2025-03",
+          "title": "Chance of Rain",
+          "vocalsFile": "2025 - Riffs and Roadblocks/2.1 Chance of Rain.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/2.1 Chance of Rain (No Vocals).mp3"
+        },
+        {
+          "id": "2025-04",
+          "title": "Dare to Dream",
+          "vocalsFile": "2025 - Riffs and Roadblocks/2.4 Dare to Dream.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/2.4 Dare to Dream (No Vocals).mp3"
+        },
+        {
+          "id": "2025-05",
+          "title": "Astro Air",
+          "vocalsFile": "2025 - Riffs and Roadblocks/3.1 Astro Air.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/3.1 Astro Air (No Vocals).mp3"
+        },
+        {
+          "id": "2025-06",
+          "title": "Life is Music",
+          "vocalsFile": "2025 - Riffs and Roadblocks/3.5 Life is Music.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/3.5 Life is Music (No Vocals).mp3"
+        },
+        {
+          "id": "2025-07",
+          "title": "The Storm",
+          "vocalsFile": "2025 - Riffs and Roadblocks/4.5 The Storm.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/4.5 The Storm (No Vocals).mp3"
+        },
+        {
+          "id": "2025-08",
+          "title": "Rise Again",
+          "vocalsFile": "2025 - Riffs and Roadblocks/5.1 Rise Again.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/5.1 Rise Again (No Vocals).mp3"
+        },
+        {
+          "id": "2025-09",
+          "title": "Ja Ja Nah",
+          "vocalsFile": "2025 - Riffs and Roadblocks/5.5 Ja Ja Nah.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/5.5 Ja Ja Nah (No Vocals).mp3"
+        },
+        {
+          "id": "2025-10",
+          "title": "Arrest My Heart",
+          "vocalsFile": "2025 - Riffs and Roadblocks/6.2 Arrest My Heart.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/6.2 Arrest My Heart (No Vocals).mp3"
+        },
+        {
+          "id": "2025-11",
+          "title": "The Final Cut",
+          "vocalsFile": "2025 - Riffs and Roadblocks/6.5 The Final Cut.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/6.5 The Final Cut (No Vocals).mp3"
+        },
+        {
+          "id": "2025-12",
+          "title": "Sunlight of a New Dawn",
+          "vocalsFile": "2025 - Riffs and Roadblocks/7.1 Sunlight of a New Dawn.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/7.1 Sunlight of a New Dawn (No Vocals).mp3"
+        },
+        {
+          "id": "2025-13",
+          "title": "Scarves of Blue",
+          "vocalsFile": "2025 - Riffs and Roadblocks/8.1 Scarves of Blue.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/8.1 Scarves of Blue (No Vocals).mp3"
+        },
+        {
+          "id": "2025-14",
+          "title": "Megamix Part 1",
+          "vocalsFile": "2025 - Riffs and Roadblocks/Megamix Part 1.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/Megamix Part 1 (No Vocals).mp3"
+        },
+        {
+          "id": "2025-15",
+          "title": "Megamix Part 2",
+          "vocalsFile": "2025 - Riffs and Roadblocks/Megamix Part 2.mp3",
+          "noVocalsFile": "2025 - Riffs and Roadblocks/No Vocals/Megamix Part 2 (No Vocals).mp3"
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "2026",
+      "year": 2026,
+      "title": "The Happy Place",
+      "folder": "2026 - The Happy Place",
+      "songs": [
+        {
+          "id": "2026-01",
+          "title": "You're Stuck With Us",
+          "vocalsFile": "2026 - The Happy Place/1.1 You_re Stuck With Us.mp3",
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/1.1 You_re Stuck With Us (No Vocals).mp3"
+        },
+        {
+          "id": "2026-02",
+          "title": "Happiest Place on Earth",
+          "vocalsFile": "2026 - The Happy Place/1.6 Happiest Place on Earth.mp3",
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/1.6 Happiest Place on Earth (No Vocals).mp3"
+        },
+        {
+          "id": "2026-03",
+          "title": "A Real Song",
+          "vocalsFile": "2026 - The Happy Place/2.2 A Real Song.mp3",
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/2.2 A Real Song (No Vocals).mp3"
+        },
+        {
+          "id": "2026-04",
+          "title": "A Real Song (Reprise)",
+          "vocalsFile": "2026 - The Happy Place/2.4 A Real Song (Reprise).mp3",
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/2.4 A Real Song (Reprise) (No Vocals).mp3"
+        },
+        {
+          "id": "2026-05",
+          "title": "In A Funk",
+          "vocalsFile": "2026 - The Happy Place/2.7 In A Funk.mp3",
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/2.7 In A Funk (No Vocals).mp3"
+        },
+        {
+          "id": "2026-06",
+          "title": "One of Us",
+          "vocalsFile": "2026 - The Happy Place/3.3 One of Us.mp3",
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/3.3 One of Us (No Vocals).mp3"
+        },
+        {
+          "id": "2026-07",
+          "title": "Into the Sky",
+          "vocalsFile": "2026 - The Happy Place/3.6 Into the Sky.mp3",
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/3.6 Into the Sky (No Vocals).mp3"
+        },
+        {
+          "id": "2026-08",
+          "title": "Panic Takes Over",
+          "vocalsFile": "2026 - The Happy Place/4.3 Panic Takes Over.mp3",
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/4.3 Panic Takes Over (No Vocals).mp3"
+        },
+        {
+          "id": "2026-09",
+          "title": "Entracte",
+          "vocalsFile": "2026 - The Happy Place/5.0 Entracte.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2026-10",
+          "title": "Make You Happy",
+          "vocalsFile": "2026 - The Happy Place/5.1 Make You Happy.mp3",
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/5.1 Make You Happy (No Vocals).mp3"
+        },
+        {
+          "id": "2026-11",
+          "title": "Back in My Day",
+          "vocalsFile": "2026 - The Happy Place/5.6 Back in My Day.mp3",
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/5.6 Back in My Day (No Vocals).mp3"
+        },
+        {
+          "id": "2026-12",
+          "title": "Never Be Sad Again",
+          "vocalsFile": "2026 - The Happy Place/6.2 Never Be Sad Again.mp3",
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/6.2 Never Be Sad Again (No Vocals).mp3"
+        },
+        {
+          "id": "2026-13",
+          "title": "Stop the Music",
+          "vocalsFile": "2026 - The Happy Place/6.6 Stop the Music.mp3",
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/6.6 Stop the Music (No Vocals).mp3"
+        },
+        {
+          "id": "2026-14",
+          "title": "Tower, Tower",
+          "vocalsFile": "2026 - The Happy Place/7.2 Tower, Tower.mp3",
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/7.2 Tower, Tower (No Vocals).mp3"
+        },
+        {
+          "id": "2026-15",
+          "title": "Scarves of Blue (2026)",
+          "vocalsFile": "2026 - The Happy Place/8.1 Scarves of Blue (2026).mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "2026-16",
+          "title": "Scarves of Blue",
+          "vocalsFile": null,
+          "noVocalsFile": "2026 - The Happy Place/No Vocals/8.1 Scarves of Blue (No Vocals).mp3"
+        }
+      ],
+      "unmatched": []
+    },
+    {
+      "id": "random",
+      "year": null,
+      "title": "Random / Extras",
+      "folder": "Random",
+      "songs": [
+        {
+          "id": "random-001",
+          "title": "Steamed Strudel in Stockholm",
+          "vocalsFile": "Random/1998 - Next 2000 Kms/05 Steamed Strudel in Stockholm.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "random-002",
+          "title": "Intro",
+          "vocalsFile": "Random/2000 - If You_re Happy and You Know It/04 Intro.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "random-003",
+          "title": "CSA 1 - Be Out Of It",
+          "vocalsFile": "Random/2000 - If You_re Happy and You Know It/06 CSA 1 - Be Out Of It.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "random-004",
+          "title": "Egypt",
+          "vocalsFile": "Random/2000 - If You_re Happy and You Know It/10 Egypt.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "random-005",
+          "title": "Running Gag",
+          "vocalsFile": "Random/2000 - If You_re Happy and You Know It/12 Running Gag.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "random-006",
+          "title": "Station ID 4",
+          "vocalsFile": "Random/2000 - If You_re Happy and You Know It/17 Station ID 4.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "random-007",
+          "title": "Scarves Of Blue",
+          "vocalsFile": "Random/2000 - If You_re Happy and You Know It/21 Scarves Of Blue.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "random-008",
+          "title": "Oh Did I Mention'",
+          "vocalsFile": "Random/2000 - If You_re Happy and You Know It/23 Oh Did I Mention_.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "random-009",
+          "title": "Brand New Day Reprise",
+          "vocalsFile": "Random/2015 - Brand New Day/13 - Brand New Day Reprise - VOCALS.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "random-010",
+          "title": "Brand New Day Reprise",
+          "vocalsFile": "Random/2015 - Brand New Day/2015 Non-Vocals/13 - Brand New Day Reprise - INSTRUMENTAL.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "random-011",
+          "title": "Brand New Day Reprise",
+          "vocalsFile": "Random/2015 - Brand New Day/CST LIVE 2015/13 - Brand New Day Reprise.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "random-012",
+          "title": "Launch Harmonies",
+          "vocalsFile": "Random/2015 - Brand New Day/Launch Harmonies.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "random-013",
+          "title": "On the Run II",
+          "vocalsFile": "Random/2015 - Brand New Day/On the Run II.mp3",
+          "noVocalsFile": null
+        },
+        {
+          "id": "random-014",
+          "title": "RJ 2015 piano ballad mix",
+          "vocalsFile": "Random/2015 - Brand New Day/RJ 2015 piano ballad mix.mp3",
+          "noVocalsFile": null
+        }
+      ],
+      "unmatched": []
+    }
+  ]
+}

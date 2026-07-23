@@ -1,0 +1,24 @@
+{
+  "name": "cst-music-archive",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bun run build.js",
+    "serve": "bunx serve dist -p 3000",
+    "start": "bun --hot server.js"
+  },
+  "dependencies": {
+    "bun-plugin-tailwind": "^0.1.2",
+    "pouchdb-browser": "^9.0.0",
+    "react": "^19",
+    "react-dom": "^19",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/pouchdb-browser": "^6.1.5",
+    "@types/react": "^19",
+    "@types/react-dom": "^19"
+  }
+}
