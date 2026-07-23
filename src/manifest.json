@@ -1,0 +1,14 @@
+{
+  "name": "Camberwell Showtime Music Archive",
+  "short_name": "CST Archive",
+  "description": "The full historical Camberwell Showtime music catalog, 1998-2026",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "icons": [
+    { "src": "/icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
